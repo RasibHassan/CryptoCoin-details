@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CryptoCoin-details/static/css/main.d6183832.css",
+    "main.js": "/CryptoCoin-details/static/js/main.56d84547.js",
+    "index.html": "/CryptoCoin-details/index.html",
+    "main.d6183832.css.map": "/CryptoCoin-details/static/css/main.d6183832.css.map",
+    "main.56d84547.js.map": "/CryptoCoin-details/static/js/main.56d84547.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6183832.css",
+    "static/js/main.56d84547.js"
+  ]
+}
